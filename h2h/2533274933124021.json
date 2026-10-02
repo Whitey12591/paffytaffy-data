@@ -1,0 +1,122 @@
+{
+  "schema_version": 3,
+  "generated_at": "2026-10-02T21:58:19Z",
+  "owner": {
+    "xuid": "2533274953414009",
+    "gamertag": "Paffytaffy",
+    "rank": {
+      "display": "Onyx 1684",
+      "gamertag": "Paffytaffy",
+      "placing": false,
+      "playlist": "Ranked Arena",
+      "playlist_id": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+      "resolved_at": "2026-09-19T07:38:49.707552Z",
+      "sub_tier": 1,
+      "tier": "Onyx",
+      "value": 1684
+    },
+    "armor": {
+      "service_tag": "PAFY",
+      "core_id": "017-001-fwl-c13d0b38",
+      "core_name": "Chimera",
+      "core_render": "core-renders/017-001-fwl-c13d0b38.png",
+      "resolved_at": "2026-09-20T19:11:23.107528Z"
+    }
+  },
+  "challenger": {
+    "xuid": "2533274933124021",
+    "gamertag": "AssassinPhalanx",
+    "rank": {
+      "display": "Onyx 1576",
+      "gamertag": "AssassinPhalanx",
+      "placing": false,
+      "playlist": "Ranked Arena",
+      "playlist_id": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+      "resolved_at": "2026-06-24T23:55:26.137096Z",
+      "sub_tier": 1,
+      "tier": "Onyx",
+      "value": 1576
+    },
+    "armor": null
+  },
+  "modes": {
+    "against": {
+      "matches": 7,
+      "decider": "win_rate",
+      "winner": "challenger",
+      "early_lead": true,
+      "owner": {
+        "games": 7,
+        "wins": 2,
+        "losses": 5,
+        "ties": 0,
+        "undecided": 0,
+        "dnf": 0,
+        "win_rate": 28.6,
+        "kd": 1.0,
+        "accuracy": 55.4,
+        "headshot_pct": 68.0,
+        "damage_per_game": 5882,
+        "assists_per_game": 10.6
+      },
+      "challenger": {
+        "games": 7,
+        "wins": 5,
+        "losses": 2,
+        "ties": 0,
+        "undecided": 0,
+        "dnf": 0,
+        "win_rate": 71.4,
+        "kd": 0.98,
+        "accuracy": 55.9,
+        "headshot_pct": 66.9,
+        "damage_per_game": 5447,
+        "assists_per_game": 10.0
+      },
+      "match_types": {
+        "ranked": 7,
+        "custom": 0,
+        "social": 0
+      }
+    },
+    "with": {
+      "matches": 1,
+      "decider": null,
+      "winner": null,
+      "early_lead": false,
+      "owner": {
+        "games": 1,
+        "wins": 1,
+        "losses": 0,
+        "ties": 0,
+        "undecided": 0,
+        "dnf": 0,
+        "win_rate": 100.0,
+        "kd": 1.38,
+        "accuracy": 56.3,
+        "headshot_pct": 50.0,
+        "damage_per_game": 6624,
+        "assists_per_game": 7.0
+      },
+      "challenger": {
+        "games": 1,
+        "wins": 1,
+        "losses": 0,
+        "ties": 0,
+        "undecided": 0,
+        "dnf": 0,
+        "win_rate": 100.0,
+        "kd": 1.14,
+        "accuracy": 58.6,
+        "headshot_pct": 70.8,
+        "damage_per_game": 7376,
+        "assists_per_game": 11.0
+      },
+      "match_types": {
+        "ranked": 1,
+        "custom": 0,
+        "social": 0
+      }
+    }
+  }
+}

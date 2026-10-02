@@ -1,0 +1,112 @@
+{
+  "schema_version": 3,
+  "generated_at": "2026-10-02T21:58:19Z",
+  "owner": {
+    "xuid": "2533274953414009",
+    "gamertag": "Paffytaffy",
+    "rank": {
+      "display": "Onyx 1684",
+      "gamertag": "Paffytaffy",
+      "placing": false,
+      "playlist": "Ranked Arena",
+      "playlist_id": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+      "resolved_at": "2026-09-19T07:38:49.707552Z",
+      "sub_tier": 1,
+      "tier": "Onyx",
+      "value": 1684
+    },
+    "armor": {
+      "service_tag": "PAFY",
+      "core_id": "017-001-fwl-c13d0b38",
+      "core_name": "Chimera",
+      "core_render": "core-renders/017-001-fwl-c13d0b38.png",
+      "resolved_at": "2026-09-20T19:11:23.107528Z"
+    }
+  },
+  "challenger": {
+    "xuid": "2535465668783190",
+    "gamertag": "BootyyBlastr",
+    "rank": null,
+    "armor": null
+  },
+  "modes": {
+    "against": {
+      "matches": 16,
+      "decider": "win_rate",
+      "winner": "challenger",
+      "early_lead": false,
+      "owner": {
+        "games": 16,
+        "wins": 7,
+        "losses": 9,
+        "ties": 0,
+        "undecided": 0,
+        "dnf": 1,
+        "win_rate": 43.8,
+        "kd": 1.13,
+        "accuracy": 62.5,
+        "headshot_pct": 70.1,
+        "damage_per_game": 4372,
+        "assists_per_game": 6.2
+      },
+      "challenger": {
+        "games": 16,
+        "wins": 9,
+        "losses": 7,
+        "ties": 0,
+        "undecided": 0,
+        "dnf": 0,
+        "win_rate": 56.2,
+        "kd": 0.94,
+        "accuracy": 59.4,
+        "headshot_pct": 59.9,
+        "damage_per_game": 3991,
+        "assists_per_game": 5.8
+      },
+      "match_types": {
+        "ranked": 16,
+        "custom": 0,
+        "social": 0
+      }
+    },
+    "with": {
+      "matches": 8,
+      "decider": null,
+      "winner": null,
+      "early_lead": false,
+      "owner": {
+        "games": 8,
+        "wins": 3,
+        "losses": 3,
+        "ties": 2,
+        "undecided": 0,
+        "dnf": 0,
+        "win_rate": 50.0,
+        "kd": 1.01,
+        "accuracy": 44.7,
+        "headshot_pct": 67.4,
+        "damage_per_game": 4930,
+        "assists_per_game": 9.4
+      },
+      "challenger": {
+        "games": 8,
+        "wins": 3,
+        "losses": 3,
+        "ties": 2,
+        "undecided": 0,
+        "dnf": 0,
+        "win_rate": 50.0,
+        "kd": 0.86,
+        "accuracy": 47.8,
+        "headshot_pct": 50.8,
+        "damage_per_game": 5063,
+        "assists_per_game": 7.6
+      },
+      "match_types": {
+        "ranked": 8,
+        "custom": 0,
+        "social": 0
+      }
+    }
+  }
+}

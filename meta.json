@@ -1,0 +1,105 @@
+{
+  "schema_version": 3,
+  "generated_at": "2026-10-02T21:58:19Z",
+  "data_from": "2021-11-15T23:02:10Z",
+  "data_through": "2026-10-02T04:09:58Z",
+  "owner": {
+    "xuid": "2533274953414009",
+    "gamertag": "Paffytaffy",
+    "total_matches": 16410,
+    "rank": {
+      "display": "Onyx 1684",
+      "gamertag": "Paffytaffy",
+      "placing": false,
+      "playlist": "Ranked Arena",
+      "playlist_id": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+      "resolved_at": "2026-09-19T07:38:49.707552Z",
+      "sub_tier": 1,
+      "tier": "Onyx",
+      "value": 1684
+    }
+  },
+  "min_shared_games": 3,
+  "early_lead_threshold": 10,
+  "default_armor": {
+    "core_id": "017-001-fwl-c13d0b38",
+    "core_name": "Chimera",
+    "core_render": "core-renders/017-001-fwl-c13d0b38.png",
+    "based_on_players": 54
+  },
+  "modes": [
+    "against",
+    "with"
+  ],
+  "stats": [
+    {
+      "key": "win_rate",
+      "label": "Win Rate",
+      "format": "percent",
+      "decimals": 0,
+      "decider": true,
+      "higher_is_better": true
+    },
+    {
+      "key": "kd",
+      "label": "K / D",
+      "format": "ratio",
+      "decimals": 2,
+      "decider": false,
+      "higher_is_better": true
+    },
+    {
+      "key": "accuracy",
+      "label": "Accuracy",
+      "format": "percent",
+      "decimals": 0,
+      "decider": false,
+      "higher_is_better": true
+    },
+    {
+      "key": "headshot_pct",
+      "label": "Headshot %",
+      "format": "percent",
+      "decimals": 0,
+      "decider": false,
+      "higher_is_better": true
+    },
+    {
+      "key": "damage_per_game",
+      "label": "Damage / Game",
+      "format": "number",
+      "decimals": 0,
+      "decider": false,
+      "higher_is_better": true
+    },
+    {
+      "key": "assists_per_game",
+      "label": "Assists / Game",
+      "format": "number",
+      "decimals": 1,
+      "decider": false,
+      "higher_is_better": true
+    }
+  ],
+  "featured": {
+    "rivalry": {
+      "x": "2533274832059215",
+      "g": "BYM Bliss",
+      "mode": "against",
+      "m": 35,
+      "w": 17,
+      "l": 17,
+      "t": 1
+    },
+    "teammate": {
+      "x": "2533274796793820",
+      "g": "Take Medicine",
+      "mode": "with",
+      "m": 4325,
+      "w": 2102,
+      "l": 2031,
+      "t": 84
+    },
+    "rivalry_min_decisive": 20
+  }
+}
